@@ -6,7 +6,7 @@ export const Container = styled.View`
     background-color: "#000";
     align-items: center;
     justify-items: center;
-    margin-top: 300px;
+    margin-top: 301px;
 `;
 
 export const BigText = styled.Text`
